@@ -1,5 +1,4 @@
 
-
 # **McDonald's Nutrition Insights Dashboard**  
 
 ## **Overview**  
